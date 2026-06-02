@@ -33,7 +33,6 @@ class WeatherServiceTest {
     private static final LocalDate DATE = LocalDate.of(2026, 5, 7);
     private static final LocalTime TIME = LocalTime.of(10, 0);
 
-    
     @Mock
     private ActivityRepository activityRepository;
 
